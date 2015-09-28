@@ -21,6 +21,7 @@ Geboorteplaats: 	Gent
 HTML-code <br>
 Java-script <br>
 JQuerry <br>
+CSS
 
 #Softwarekennis:
 
